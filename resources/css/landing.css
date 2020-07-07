@@ -2,10 +2,11 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Montserrat', sans-serif;
-  background-image: url(../pages/pine.jpg);
-  background-size: auto;
-  background-position: left;
-  width: fit-content;
+  background-image: url(../pages/pine1.jpeg);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  min-height: 800px;
   background-repeat: no-repeat;
 }
 .box{
